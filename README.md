@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🌱 I’m currently learning Spring Boot
-- 💼 Junior Developer at UST
 - 📫 How to reach me: narendranmurali@2001
 
 ## Skills
