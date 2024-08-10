@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 - **Collaborative Development**: Built using HTML, JavaScript, PHP, and CSS, ensuring a user-friendly interface for easy navigation.
 - **Security**: Prioritizes secure data handling and user authentication to protect user information.
 
-  ### EMOSHOTT
-  **EMOSHOTT** is an AI-based system designed to identify subjects that trigger specific emotional responses in individuals. Key features include:
+### EMOSHOTT
+**EMOSHOTT** is an AI-based system designed to identify subjects that trigger specific emotional responses in individuals. Key features include:
 
 - **Model Training**: Uses the 'fer2013 plus' dataset from Kaggle for model training with TensorFlow and Keras.
 - **Speech Processing**: Incorporates OpenAI-Whisper, a text-to-speech model, and Spacy, an NLP module, for speech processing.
