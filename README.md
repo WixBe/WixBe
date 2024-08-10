@@ -52,8 +52,9 @@ Here are some ideas to get you started:
   <br>
   
   ###
-  ![WixBe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WixBe&theme=gruvbox&hide_border=false)
   ![WixBe's Stats](https://github-readme-stats.vercel.app/api?username=WixBe&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+  ![WixBe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WixBe&theme=gruvbox&hide_border=false)
+
   
   ###
   ![WixBe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WixBe&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
