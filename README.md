@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-- 🌱 I’m currently learning Spring Boot
+- 🔭 I’m currently working on node.js, java springboot, react, aws and angular projects.
 - 📫 How to reach me: narendranmurali@2001
 
 ## Skills
